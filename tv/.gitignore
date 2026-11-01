@@ -3,3 +3,4 @@ sauvegardes/
 captures-manuelles/
 .tvtool.json
 horizon-launcher.apk
+__pycache__/
