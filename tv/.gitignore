@@ -1,0 +1,5 @@
+# Données propres à ta télé : restent sur ton ordinateur
+sauvegardes/
+captures-manuelles/
+.tvtool.json
+horizon-launcher.apk
